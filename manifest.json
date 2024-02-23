@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+    "name": "Background Color Changer",
+    "version": "1.0.0",
+    "description": "A chrome extension that changes the background color of the page to a selected color"
+}
